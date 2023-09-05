@@ -1,3 +1,4 @@
 from .image_handler import ImageHandler
+from .data_extractor import DataExtractor
 
-__all__ = ["ImageHandler"]
+all = ["ImageHandler", "DataExtractor"]
