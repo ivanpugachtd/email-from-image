@@ -6,7 +6,6 @@ class DataExtractor:
     def __init__(self, text: str):
         self.text: str = text
         self._patterns = {
-            # "email": r"[\w.+-]+@[\w-]+\.[\w.-]+",
             "email": r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(?=\W|$)",
         }
 
