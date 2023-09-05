@@ -1,4 +1,3 @@
-from PIL import Image
 from image_to_email import ImageHandler, DataExtractor
 from utils import ArgumentParser, EmailSaver
 from pytesseract import pytesseract
