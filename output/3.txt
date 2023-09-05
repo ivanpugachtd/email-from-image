@@ -1,0 +1,6 @@
+firstname.secondname@domain.com
+peter.parker@zylker.com
+firstname.initial@domain.com
+peter.p@zylker.com
+firstname@domain.com
+peter@zylker.com
